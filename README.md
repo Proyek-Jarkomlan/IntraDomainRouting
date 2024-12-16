@@ -16,5 +16,6 @@
    sudo python3 ospf-lab.py -c frr-config
 4. Run this command to test the project:
    ```bash
+   C1_1 traceroute -I C2_1
    C1_1 traceroute -I C3_2
 5. If you have successfully traceroute, the project is successful.
