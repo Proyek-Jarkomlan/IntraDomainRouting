@@ -20,4 +20,5 @@
 5. Run the different traceroute command to test the project:
    ```bash
    C1_1 traceroute -I C3_2
+6. If when doing traceroute there is an error, repeat it again until you can, because usually the error is only at the beginning, if repeated it will run immediately.
 6. If you have successfully traceroute, the project is successful.
