@@ -2,7 +2,7 @@
 
 ## **Configuration**
 
-![Static Routing Configuration](https://github.com/Proyek-Jarkomlan/IntraDomainRouting/blob/main/assets/Intra%20Domain%20Routing.jpg?raw=true)
+![Intra Routing Configuration](https://github.com/Proyek-Jarkomlan/IntraDomainRouting/blob/main/assets/Intra%20Domain%20Routing.jpg?raw=true)
 
 ## **Steps**
 1. Clone this repository:
